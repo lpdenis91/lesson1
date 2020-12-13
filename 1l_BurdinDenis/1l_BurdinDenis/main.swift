@@ -83,3 +83,4 @@ while numberOfYears > 0 {
     numberOfYears -= 1
 }
 print("Сумма вклада через 5 лет = \(allInvestition)")
+
